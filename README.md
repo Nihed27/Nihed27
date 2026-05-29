@@ -10,8 +10,7 @@
   </a>
   <a href="mailto:missarnihed167@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nihed-missar&style=for-the-badge&color=6366f1"/>
+ 
 </p>
 
 ---
@@ -46,7 +45,6 @@ Currently focusing on **Software Engineering, AI, and Data Engineering** to desi
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-6DB33F?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -57,10 +55,10 @@ Currently focusing on **Software Engineering, AI, and Data Engineering** to desi
 
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-**🤖 AI & Computer Vision**
+**🤖 AI & Machine Learning**
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 
 Supervised ML (Regression) · Unsupervised ML (K-means) · YOLOv8 Object Detection
 
@@ -130,12 +128,12 @@ Assisted in ADSL and fiber optic installation and configuration, gaining foundat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihed-missar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihed-missar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nihed27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihed27&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nihed-missar&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Nihed27&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
