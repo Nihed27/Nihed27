@@ -33,7 +33,7 @@ Currently focusing on **Software Engineering, AI, and Data Engineering** to desi
 |--------|--------|-------------|
 | 2025 – Present | Engineering in Computer Science | National Engineering School of Carthage (ENICarthage) · Tunis |
 | 2021 – 2024 | Bachelor's in Computer Systems Engineering | Faculty of Science of Bizerte |
-| 2021 | Tunisian Baccalaureate — Mathematics | Farhat Hached High School · Bizerte |
+
 
 ---
 
