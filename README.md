@@ -120,7 +120,7 @@ Assisted in ADSL and fiber optic installation and configuration, gaining foundat
 ## 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence & Machine Learning  
-- 👁️ Computer Vision (YOLO, Faster R-CNN)  
+- 👁️ Computer Vision 
 - ☁️ Data Engineering & Cloud Computing  
 
 ---
